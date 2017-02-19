@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Scada:700');
+body{
+    background:#A64D79 ;
+}
+h1{ color:#FFFFFF;
+    font-family: 'Scada', sans-serif;
+    font-size: 75px;
+    margin-left: 35%;
+}
+.forma {
+    height: 470px;
+    width: 300px;
+    background: #FFFFFF;
+    color: #648880;
+    font-size: 16px;
+    border-radius:0.5%;
+    border:transparent;
+    margin-left: 33%;
+}
+.lable{
+    margin-top: 20px;
+    height: 50px;
+    width: 80px;
+    margin-left: 20px;
+    padding-bottom: 20px;
+    text-shadow:0.5px 0.5px 1px #7D7E7F;
+}
+.input{
+    margin-left: 20px;
+    width: 80%;
+    height: 27px;
+    border: solid 1px ;
+    border-radius: 4%;
+    color:#E7E9EA;
+    margin-top: 10px;
+    box-shadow: 0.5px 0.5px  0 rgba(125, 126, 127, 0.27);
+}
+.select{
+    height: 35px;
+    width:60px;
+    border: solid 2px ;
+    border-radius: 4%;
+    color:#E7E9EA;
+    margin-top: 10px;
+    box-shadow: 0.5px 0.5px  0 rgba(125, 126, 127, 0.27);
+    margin-left: 20px;
+
+}
+.input3{
+    width: 60%;
+    height: 50px;
+    margin-left: 20px;
+    border-radius: 5%;
+    background:#648880;
+    border: solid 0.1px ;
+    color:#E7E9EA;
+    margin-top: 25px;
+    font-size: 16px;
+    text-transform:uppercase;
+}
+ comm{
+    height: 50px;
+}
+
+
+
